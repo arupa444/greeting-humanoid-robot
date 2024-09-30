@@ -61,6 +61,10 @@ The project is organized into several ROS packages:
 
 The robot successfully detects a person in the simulated environment, navigates towards them, and greets them verbally. The project demonstrates the integration of different ROS components to achieve a complex robotic behavior.
 
+## Some Photos while working
+
+![CTTC Lab](outputImg.png)  
+
 ## Future Work
 
 - Implement more robust person detection algorithms.
