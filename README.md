@@ -63,8 +63,6 @@ The robot successfully detects a person in the simulated environment, navigates 
 
 ## Some Photos while working
 
-## Some Photos while working
-
 <img src="IMG20220405180921.jpg" width="300"> <img src="IMG20220326192859.jpg" width="300"> 
 
 <img src="IMG20220405180911.jpg" width="300"> <img src="IMG20220405180916.jpg" width="300"> 
