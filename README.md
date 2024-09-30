@@ -63,7 +63,15 @@ The robot successfully detects a person in the simulated environment, navigates 
 
 ## Some Photos while working
 
-![CTTC Lab](outputImg.png)  
+![CTTC Lab](IMG20220405180921.jpg)  
+![CTTC Lab](IMG20220326192730.jpg)   
+![CTTC Lab](IMG20220326192756.jpg)   
+![CTTC Lab](IMG20220326192837.jpg)   
+![CTTC Lab](IMG20220326192845.jpg)   
+![CTTC Lab](IMG20220326192859.jpg)   
+![CTTC Lab](IMG20220405180911.jpg)   
+![CTTC Lab](IMG20220405180916.jpg)   
+![CTTC Lab](IMG20220405180927.jpg)  
 
 ## Future Work
 
