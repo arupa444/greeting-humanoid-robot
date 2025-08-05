@@ -1,4 +1,4 @@
-# Greeting Humanoid Robot
+# Greeting Humanoid Robot (Arduino)
 
 This project implements a static greeting humanoid robot using Arduino and various electronic components. The robot is designed to detect a person's presence using a proximity sensor, which then triggers a greeting motion using servo motors. The movement of the robot's joints is controlled and limited by reed and limit switches.
 
@@ -62,6 +62,6 @@ cttc.hand.ino // code
 
 ### License
 
-- **This project is licensed under the MIT License - see the LICENSE file for details.**
+- **Open source**
 
 
